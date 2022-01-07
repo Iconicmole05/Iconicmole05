@@ -1,6 +1,6 @@
 - 👋 Servus, I’m @Iconicmole05
 - 👀 I’m interested in learning new stuff, in creating games/websites/microcontroller-scripts (Raspberry Pi, Arduino and so on....)  and in everything that has to do with school.
-- 🌱 I’m currently learning HTML, Java and C++
+- 🌱 I’m currently learning HTML, Java and C++ (and Latin, but I think that' s not relevant here...)
 - 📫 How to reach me ? - Just dont.
 
 <!---
